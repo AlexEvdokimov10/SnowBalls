@@ -1,9 +1,4 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 #idea ignore
 .idea/
 
@@ -17,3 +12,4 @@ node_modules/
 
 # production
 .build
+
